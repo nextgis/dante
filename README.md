@@ -2,6 +2,10 @@
 
 Dante - a SOCKS client and server implementation for UNIX
 
+# Version 
+
+v1.4.2-5
+
 # Description
 
 This is repository for ppa/buildbot uses.
