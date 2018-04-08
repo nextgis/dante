@@ -6,6 +6,10 @@ Dante - a SOCKS client and server implementation for UNIX
 
 This is repository for ppa/buildbot uses.
 
+# License
+
+GPL-like?
+
 # Commercial support
 
 Need to fix a bug or add a feature to NextGIS Software? We provide custom development
