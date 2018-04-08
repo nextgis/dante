@@ -1,5 +1,9 @@
-# dante
+# Dante
+
 Dante - a SOCKS client and server implementation for UNIX
+
+# Description
+This is repository for ppa/buildbot uses.
 
 # Commercial support
 
